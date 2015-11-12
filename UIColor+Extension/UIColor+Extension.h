@@ -1,8 +1,5 @@
 //
 //  UIColor+Extension.h
-//  美天
-//
-//  Created by qianfeng on 15/10/22.
 //  Copyright © 2015年 Jonle. All rights reserved.
 //
 
